@@ -1,0 +1,45 @@
+.counter {
+  background-color: #cecece;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  gap: 30px;
+  padding: 1rem;
+  max-width: 300px
+}
+
+.counter2 {
+  margin-top: 20%;
+}
+
+.display {
+  font-size: 40px;
+  font-weight: bolder;
+}
+
+.add {
+  background-color: lightgreen;
+  box-shadow: 7px 5px 9px gray;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  font-size: xx-large;
+  font-weight: bolder;
+  border: 1px solid lightgreen;
+}
+
+.substract {
+  background-color: lightcoral;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  box-shadow: 7px 5px 9px gray;
+  border-radius: 5px;
+  font-size: xx-large;
+  font-weight: bolder;
+  border: 1px solid lightcoral;
+}
+
+.add:hover,
+.substract:hover {
+  font-size: large;
+}
