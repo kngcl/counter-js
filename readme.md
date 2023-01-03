@@ -4,7 +4,7 @@ The projects is all about adding and subtracting 1 from a number
 
 ## App
 
-![Home](assets/images/Screenshot%20from%202022-12-16%2017-51-55.png)
+![Home](assets/images/Screenshot%20from%202023-01-03%2016-02-10.png)
 
 ### Built With
 
